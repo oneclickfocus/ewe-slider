@@ -44,7 +44,7 @@ function register_head()
 	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
 	<!-- Demo styles -->
-	<link rel="stylesheet" id="elementor-icons-shared-0-css" href="http://demo.oneclickfocus.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type="text/css" media="all">
+	<link rel="stylesheet" id="elementor-icons-shared-0-css" href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" type="text/css" media="all">
 
 	<link rel="stylesheet" href="/wp-content/plugins/elementor-ewe-slider/widgets/assets/css/main.css" />
 
